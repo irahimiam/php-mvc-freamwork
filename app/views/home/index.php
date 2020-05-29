@@ -1,0 +1,1 @@
+hello <?= $data['name']; ?> how are you?
